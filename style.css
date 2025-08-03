@@ -1,0 +1,18 @@
+#box {
+    width: 5vw;
+    height: 5vw;
+    background-color: #4b1c92;
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box p {
+    font-size: 1.7vw;
+    color: rgb(245, 245, 245);
+}
+body {
+    background-image: url('background.jpg');
+}
